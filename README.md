@@ -1,6 +1,5 @@
 # Airline-Project
-Description
-In Java 8, I process the dataset and output the calculated data points below in an XML schema 
+In Java 8, processing the dataset and output the calculated data points below in an XML schema 
 The XML is good for review result.
 
 ·         Total number of airports
